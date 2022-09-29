@@ -1,0 +1,3 @@
+#!/bin/sh
+echo not allowed 
+ exist 0
